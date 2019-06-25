@@ -13,7 +13,7 @@ You can download lates here [JDBC MySQL Connector](https://dev.mysql.com/get/Dow
 Before you using this repository you must create databases called `db_penjualan` and on this database include one table called `tabel_penjualan`,
 so we must create it first. Follow intruction bellow to create.
 
-###Configure XAMPP
+### Configure XAMPP
 Make sure your xampp was open and MySql and Apache was already Start like bellow
 ![XAMPP Configure](screenshot/xampp_setup.png "MySQL and Apache Already Start")
 
@@ -45,6 +45,7 @@ and you just waiting until the library already added
 ## Demo
 
 this is the program demo, remember before you run the program make sure your `xampp` was already start `MySQL` and `Apache`
-and this is the result
+and this is the result.
+
 ![DEMO](screenshot/demo.png "Program Demo")
 
