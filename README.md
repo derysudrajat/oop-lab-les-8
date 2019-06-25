@@ -1,8 +1,13 @@
 # oop-lab-les-8
 This project contain exercieses form oop lab leeson 8 about JDBC (Java Database Connectivity)
 
-## Download JDBC
-You can download lates here [JDBC MySQL Connector](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-5.1.47.zip)
+## Download
+
+### XAMPP
+You can download XAMPP here [XAMPP](https://www.apachefriends.org/download.html,"Download XAMPP")
+
+### JDBC
+You can download lates here [JDBC MySQL Connector](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-5.1.47.zip,"Download JDBC")
 
 ## Setup
 Before you using this repository you must create databases called db_penjualan and on this database include one table called tabel_penjualan,
