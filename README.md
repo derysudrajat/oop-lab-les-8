@@ -15,6 +15,7 @@ so we must create it first. Follow intruction bellow to create.
 
 ### Configure XAMPP
 Make sure your xampp was open and MySql and Apache was already Start like bellow
+
 ![XAMPP Configure](screenshot/xampp_setup.png "MySQL and Apache Already Start")
 
 
@@ -36,10 +37,12 @@ CREATE TABLE tabel_penjualan(
 ### Install JDBC in NetBeans
 one step closer before you run this repository, you must add `JDBC` which you already downloaded
 Now open Project navigation on left side of IDE, you can find `Libraries` directory right click and select `Add JAR/Folder...`
+
 ![Add Library](screenshot/add_lib.png "Add Library")
 
 after that you'll meet new dialog, now you find and selected library which you've downloaded before, and lick `Open` 
 and you just waiting until the library already added
+
 ![Select Library](screenshot/sel_lib.png "Select Library")
 
 ## Demo
